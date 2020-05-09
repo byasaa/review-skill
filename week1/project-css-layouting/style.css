@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    font-family: 'Slabo 27px', serif;
+}
+
+
+header{
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: #f8f9fa;
+}
+
+nav ul a{
+    text-decoration: none;
+    list-style: none;
+    display: inline-block;
+}
